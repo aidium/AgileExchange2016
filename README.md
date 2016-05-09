@@ -6,7 +6,7 @@ Kod för refaktoriseringes workshoppen på AgileExchange 2016
 
 ## IDE krav
 
-Ni bör ha någon form av kod täckningsplugin inststalerat.
+Ni bör ha någon form av kodtäckningsplugin installerat.
 * I eclipse kan ni använda EcEmma
 * I IDEA så måste ni slå på branch täckningen (Edit configurations -> Tracing -> Track per test coverage)
 
