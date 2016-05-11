@@ -11,8 +11,7 @@ Ni bör ha någon form av kodtäckningsplugin installerat.
 * I IDEA så måste ni slå på branch täckningen (Edit configurations -> Tracing -> Track per test coverage)
 
 ## Eclipse för nedladdning
-Eclipse version som kan användas och som är förberedd med maven, code coverage, more unit och infinitest finns att hämta här [http://aidium.se/kata/eclipse.zip]
+Eclipse version som kan användas och som är förberedd med maven, code coverage, more unit och infinitest finns att hämta här http://aidium.se/kata/eclipse.zip
 
 ## Slides
-
-[http://www.slideshare.net/BjrnPalmqvist1/refaktorisering-av-legacy-code]
+http://www.slideshare.net/BjrnPalmqvist1/refaktorisering-av-legacy-code
