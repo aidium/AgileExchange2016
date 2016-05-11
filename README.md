@@ -12,3 +12,7 @@ Ni bör ha någon form av kodtäckningsplugin installerat.
 
 ## Eclipse för nedladdning
 Eclipse version som kan användas och som är förberedd med maven, code coverage, more unit och infinitest finns att hämta här [http://aidium.se/kata/eclipse.zip]
+
+## Slides
+
+[http://www.slideshare.net/BjrnPalmqvist1/refaktorisering-av-legacy-code]
